@@ -1,2 +1,2 @@
-# task2-netflix-clone
+# task2-netflix-homepage
 Bharat intern task 2
